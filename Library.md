@@ -6,6 +6,7 @@
 
 * [Deniable Authentication on the Internet](https://www.youtube.com/watch?v=ftIRNqz6KKY) by Yevgeniy Dodis
 * [Off-the-Record Communication, or, Why Not To Use PGP](https://otr.cypherpunks.ca/otr-wpes.pdf) by Nikita Borisov, Ian Goldberg and Eric Brewer
+* [Deniable Encryption](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/deniable.pdf) by Ran Canetti, Cynthia Dwork, Moni Naor and Rafail Ostrovsky
 
 ### Types
 
@@ -21,6 +22,6 @@
 
 ## Secrecy
 
-### Foward
+### Forward Secrecy
 
-### Post-compromise
+### Post-compromise Secrecy
