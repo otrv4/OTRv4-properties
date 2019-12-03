@@ -61,9 +61,22 @@
 
 ### Post-compromise Secrecy
 
+## DAKE
+
+* [Deniable Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dake-ccs15.pdf)
+  by Nik Unger and Ian Goldberg.
+* [Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dakez-popets18.pdf)
+  by Nik Unger and Ian Goldber.
+
 ## UX work
 
 * [Improved User Authentication in Off-The-Record Messaging](https://webencrypt.org/otr/attachment/impauth.pdf)
   by Chris Alexander and Ian Goldberg
 
 ## Other protocols
+
+* [SoK: Secure messaging](http://cacr.uwaterloo.ca/techreports/2015/cacr2015-02.pdf)
+  by Nik Unger, Ian Goldberg, Sergej Dechand, Joseph Bonneau, Sascha Fahl,
+  Henning Perl and Matthew Smith
+* [The Double Ratchet: Security Notions, Proofs, and Modularization for the Signal Protocol](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_5.pdf)
+  by Joel Alwen, Sandro Coretti, and Yevgeniy Dodis.
