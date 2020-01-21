@@ -50,6 +50,8 @@
   by Ran Canetti, Cynthia Dwork, Moni Naor and Rafail Ostrovsky
 * [Simplifying OTR deniability](https://signal.org/blog/simplifying-otr-deniability/)
   by Moxie Marlinspike
+* [Notions of Deniable Message Authentication](https://www.researchgate.net/publication/301415404_Notions_of_Deniable_Message_Authentication)
+  by Marc Fischlin and Sogol Mazaheri
 
 ### Types
 
@@ -59,7 +61,11 @@
   by Nik Unger and Ian Goldberg.
 * [Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dakez-popets18.pdf)
   by Nik Unger and Ian Goldber.
+* [Deniable Key Exchanges for Secure Messaging](https://uwspace.uwaterloo.ca/bitstream/handle/10012/9406/Unger_Nik.pdf?sequence=3&isAllowed=y)
+  by Nik Unger, Master Thesis
 
+### Value
+* [Value of deniability](https://moderncrypto.org/mail-archive/messaging/2014/001173.html)
 
 ## Secrecy
 
