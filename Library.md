@@ -1,5 +1,12 @@
 # OTRv4 Library
 
+## Secure messaging
+
+### Mapping of different properties
+
+* [SoK: Secure Messaging](http://cacr.uwaterloo.ca/techreports/2015/cacr2015-02.pdf) by
+  Nik Unger, Sergej Dechand, Joseph Bonneau, Sascha Fahl, Henning Perl, Ian Goldberg and Matthew Smith
+
 ## Where does OTR come from
 
 * [Off-the-Record Communication, or, Why Not To Use PGP](https://otr.cypherpunks.ca/otr-wpes.pdf)
@@ -41,19 +48,18 @@
   by Yevgeniy Dodis
 * [Deniable Encryption](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/deniable.pdf)
   by Ran Canetti, Cynthia Dwork, Moni Naor and Rafail Ostrovsky
+* [Simplifying OTR deniability](https://signal.org/blog/simplifying-otr-deniability/)
+  by Moxie Marlinspike
 
 ### Types
 
-#### Message
-
-#### Participation
-
-#### Online
-
 * [Composability and On-Line Deniability of Authentication](https://www.cs.umd.edu/~jkatz/papers/deniable.pdf)
   by Yevgeniy Dodis, Jonathan Katz, Adam Smith, and Shabsi Walfish
+* [Deniable Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dake-ccs15.pdf)
+  by Nik Unger and Ian Goldberg.
+* [Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dakez-popets18.pdf)
+  by Nik Unger and Ian Goldber.
 
-#### Offline
 
 ## Secrecy
 
@@ -61,22 +67,13 @@
 
 ### Post-compromise Secrecy
 
-## DAKE
-
-* [Deniable Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dake-ccs15.pdf)
-  by Nik Unger and Ian Goldberg.
-* [Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging](https://cypherpunks.ca/~iang/pubs/dakez-popets18.pdf)
-  by Nik Unger and Ian Goldber.
-
 ## UX work
 
 * [Improved User Authentication in Off-The-Record Messaging](https://webencrypt.org/otr/attachment/impauth.pdf)
   by Chris Alexander and Ian Goldberg
+* [Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/USENIX.pdf)
 
 ## Other protocols
 
-* [SoK: Secure messaging](http://cacr.uwaterloo.ca/techreports/2015/cacr2015-02.pdf)
-  by Nik Unger, Ian Goldberg, Sergej Dechand, Joseph Bonneau, Sascha Fahl,
-  Henning Perl and Matthew Smith
 * [The Double Ratchet: Security Notions, Proofs, and Modularization for the Signal Protocol](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_5.pdf)
   by Joel Alwen, Sandro Coretti, and Yevgeniy Dodis.
