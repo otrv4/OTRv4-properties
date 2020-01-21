@@ -50,8 +50,20 @@
   by Ran Canetti, Cynthia Dwork, Moni Naor and Rafail Ostrovsky
 * [Simplifying OTR deniability](https://signal.org/blog/simplifying-otr-deniability/)
   by Moxie Marlinspike
+* [Deniable Ring Authentication](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/denring.pdf)
+  by Moni Naor
+* [Deniable Authentication and Key Exchange](https://www.dmi.unict.it/diraimondo/web/wp-content/uploads/papers/deniability-ake.pdf)
+  by Mario Di Raimondo, Rosario Gennaro, and Hugo Krawczyk
+* [Enhanced Security Models for Network Protocols](https://pdfs.semanticscholar.org/5dde/f8708f8a9202f2d91d71d6e4c7e93f67b1f0.pdf)
+  by Shabsi Walfish
+
+## History
+
 * [Notions of Deniable Message Authentication](https://www.researchgate.net/publication/301415404_Notions_of_Deniable_Message_Authentication)
   by Marc Fischlin and Sogol Mazaheri
+* [Non-Malleable Cryptography] by Danny Dolev, Cynthia Dwork and Moni Naor
+* [Concurrent Zero-Knowledge](http://web.cs.ucla.edu/~sahai/work/web/2004%20Publications/J.ACM2004.pdf)
+  by Cynthia Dwork, Moni Naor, and Amit Sahai
 
 ### Types
 
