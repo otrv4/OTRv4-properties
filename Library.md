@@ -14,6 +14,9 @@
 
 ## OTRv4 papers
 
+* [Improved User Authentication in Off-The-Record Messaging](https://webencrypt.org/otr/attachment/impauth.pdf)
+* [Finite-State Security Analysis of OTR Version 2](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.7945&rep=rep1&type=pdf)
+  by Joseph Bonneau and Andrew Morrison
 * [No evidence of communication: Off-The-Record Protocol version 4](https://petsymposium.org/2018/files/hotpets/7-bini.pdf)
   by Sofía Celi and Ola Bini.
 
@@ -77,6 +80,7 @@
   by Nik Unger, Master Thesis
 
 ### Value
+
 * [Value of deniability](https://moderncrypto.org/mail-archive/messaging/2014/001173.html)
 
 ## Secrecy
@@ -87,9 +91,10 @@
 
 ## UX work
 
-* [Improved User Authentication in Off-The-Record Messaging](https://webencrypt.org/otr/attachment/impauth.pdf)
   by Chris Alexander and Ian Goldberg
 * [Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/USENIX.pdf)
+* [A User Study of Off-the-Record Messaging](https://cypherpunks.ca/~iang/pubs/otr_userstudy.pdf)
+  by Ryan Stedman, Kayo Yoshida and Ian Goldberg
 
 ## Other protocols
 
